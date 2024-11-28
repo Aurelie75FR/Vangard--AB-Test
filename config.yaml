@@ -1,5 +1,26 @@
-input_data:
-  file: "../data/raw/raw_data_file.csv"
+raw_user_profile:
+  file: "../data/raw/df_final_demo.txt"
 
-output_data:
-  file: "../data/clean/cleaned_data_file.csv"
+raw_footprint_1:
+  file: "../data/raw/df_final_web_data_pt_1.txt"
+
+raw_footprint_2:
+  file: "../data/raw/df_final_web_data_pt_2.txt"
+
+raw_roster:
+  file: "../data/raw/df_final_experiment_clients.txt"
+
+clean_user_profile:
+  file: "../data/clean/final_demo_clean.csv"
+
+clean_footprint:
+  file: "../data/clean/complete_clean.csv"
+
+clean_footprint_test:
+  file: "../data/clean/test_group_clean.csv"
+
+clean_footprint_control:
+  file: "../data/clean/control_group_clean.csv"
+
+clean_all_combined:
+  file: "../data/clean/all_clean.csv"
