@@ -45,7 +45,7 @@ To run the analysis, follow these steps:
 
 ## Tableau Files
 
-Currently, this repository is missing a dedicated directory for Tableau files. If you have access to the Tableau dashboard or related visualizations, you can include them in this directory. Alternatively, you can add links to access Tableau files externally.
+We have a directory for Tableau files. You can see our sheets, dashboards and stories in our files. 
 
 ## Requirements
 
