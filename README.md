@@ -50,7 +50,7 @@ We have a directory for Tableau files. You can see our sheets, dashboards and st
 ## Presentation
 
 [Presentation](https://www.canva.com/design/DAGXklzOSg0/Fd7AwNNpDHhpwcJvRzyNIQ/edit?utm_content=DAGXklzOSg0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-[Tableau Story](https://public.tableau.com/views/All_kpis_story/KPIsCompletionrateTimeperstepsNumberofusersession?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+[Tableau Story](https://public.tableau.com/views/All_kpis_story/KPIsCompletionrateTimeperstepsNumberofusersession?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
 ## Requirements
 
