@@ -47,6 +47,11 @@ To run the analysis, follow these steps:
 
 Currently, this repository is missing a dedicated directory for Tableau files. If you have access to the Tableau dashboard or related visualizations, you can include them in this directory. Alternatively, you can add links to access Tableau files externally.
 
+## Presentation
+
+[Presentation](https://www.canva.com/design/DAGXklzOSg0/Fd7AwNNpDHhpwcJvRzyNIQ/edit?utm_content=DAGXklzOSg0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+[Tableau Story](https://public.tableau.com/views/All_kpis_story/KPIsCompletionrateTimeperstepsNumberofusersession?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ## Requirements
 
 Before running the notebooks, make sure you have the following libraries installed:
